@@ -1,0 +1,121 @@
+,website,url,headline,entities
+0,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,What you need to know,[]
+1,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,Portugal will end state of emergency this week,"[('Portugal', 'GPE'), ('this week', 'DATE')]"
+2,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,Scottish government recommends wearing face coverings in public places,"[('Scottish', 'NORP')]"
+3,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,"125,000 birthday cards sent to war veteran who raised millions for UK's health service","[('125,000', 'CARDINAL'), ('millions', 'CARDINAL'), ('UK', 'GPE')]"
+4,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,Just joining us? Here are the key updates you've missed,[]
+5,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,"""Unfair and irresponsible"" to label Chinese products ""faulty,"" says China after India cancels testing kit order","[('Chinese', 'NORP'), ('China', 'GPE'), ('India', 'GPE')]"
+6,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,"Lewis Hamilton says he misses Formula 1 racing ""every day""","[('Lewis Hamilton', 'PERSON'), ('Formula 1', 'PRODUCT')]"
+7,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,Former New Zealand PM says early ban on Chinese travellers helped curb spread of outbreak,"[('New Zealand', 'GPE'), ('Chinese', 'NORP')]"
+8,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,New figures reveal scale of job losses in Spain due to outbreak ,"[('Spain', 'GPE')]"
+9,CNN,https://edition.cnn.com/world/live-news/coronavirus-pandemic-04-28-20-intl/index.html,Black barbershop owners are divided over coronavirus social distancing,[]
+10,NBC,https://www.nbcnews.com/health/coronavirus,Trump lays out new testing 'blueprint' as states weigh reopening,[]
+11,NBC,https://www.nbcnews.com/health/coronavirus,Live Blog / Latest news on the global pandemic,[]
+12,NBC,https://www.nbcnews.com/health/coronavirus,America's best Instagram quarantine celebrity is a 64-year-old Southern gay man,"[('America', 'GPE'), ('Instagram', 'ORG'), ('Southern', 'NORP')]"
+13,NBC,https://www.nbcnews.com/health/coronavirus,America's obsession with Trump lets health officials like Dr. Fauci off the hook,"[('America', 'GPE'), ('Trump', 'GPE'), ('Fauci', 'PERSON')]"
+14,NBC,https://www.nbcnews.com/health/coronavirus,Those 'COVID-19' weight gain jokes reveal the toxic power of diet culture,[]
+15,NBC,https://www.nbcnews.com/health/coronavirus,"In a plagued stretch of Louisiana known as Cancer Alley, coronavirus compounds deaths","[('Louisiana', 'GPE'), ('Cancer Alley', 'PERSON')]"
+16,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus forces America's musicians down a new and delightful path,"[('America', 'GPE')]"
+17,NBC,https://www.nbcnews.com/health/coronavirus,"Prisons overwhelmed, inmates terrified and social dynamics changing behind bars",[]
+18,NBC,https://www.nbcnews.com/health/coronavirus,Blue Angels and Thunderbirds to honor coronavirus responders with flyovers,"[('Blue Angels', 'ORG'), ('Thunderbirds', 'ORG')]"
+19,NBC,https://www.nbcnews.com/health/coronavirus,Face masks for passengers now required on all JetBlue flights,"[('JetBlue', 'ORG')]"
+20,NBC,https://www.nbcnews.com/health/coronavirus,'Naked concerns': Doctors strip down to protest lack of protective equipment,[]
+21,NBC,https://www.nbcnews.com/health/coronavirus,"Pug tests positive for coronavirus, may be first for dog in U.S.","[('first', 'ORDINAL'), ('U.S.', 'GPE')]"
+22,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus reshapes special election for Cummings' Maryland House seat,"[('Cummings', 'ORG'), ('Maryland House', 'ORG')]"
+23,NBC,https://www.nbcnews.com/health/coronavirus,"Troy Sneed, Grammy-nominated gospel singer, dies at 52 from coronavirus complications","[('Troy Sneed', 'PERSON'), ('52', 'CARDINAL')]"
+24,NBC,https://www.nbcnews.com/health/coronavirus,"Over 30 percent of Americans have witnessed COVID-19 bias against Asians, poll says","[('Over 30 percent', 'PERCENT'), ('Americans', 'NORP'), ('Asians', 'NORP')]"
+25,NBC,https://www.nbcnews.com/health/coronavirus,"Detroit health care worker dies after being denied coronavirus test 4 times, daughter says","[('Detroit', 'GPE'), ('4', 'CARDINAL')]"
+26,NBC,https://www.nbcnews.com/health/coronavirus,California men accused of peddling millions of nonexistent masks in alleged coronavirus scam,"[('California', 'GPE'), ('millions', 'CARDINAL')]"
+27,NBC,https://www.nbcnews.com/health/coronavirus,Trump lays out new coronavirus testing 'blueprint' as states weigh reopening,[]
+28,NBC,https://www.nbcnews.com/health/coronavirus,Chicago mayor blasts video of 'reckless and utterly unacceptable' house party,"[('Chicago', 'GPE')]"
+29,NBC,https://www.nbcnews.com/health/coronavirus,L.A. Lakers qualified for an emergency PPP loan — why didn't nonprofits?,"[('L.A. Lakers', 'ORG'), ('PPP', 'ORG')]"
+30,NBC,https://www.nbcnews.com/health/coronavirus,Julián Castro: Latinos grapple with 'the worst of all worlds' amid coronavirus pandemic,"[('Julián Castro', 'PERSON')]"
+31,NBC,https://www.nbcnews.com/health/coronavirus,'Extremely disappointing' and 'entirely predictable' — slowdowns and lockouts plague second round of PPP,"[('second', 'ORDINAL'), ('PPP', 'ORG')]"
+32,NBC,https://www.nbcnews.com/health/coronavirus,Have you been mistakenly accused of not social distancing because of apparent stereotyping? Share your experience,[]
+33,NBC,https://www.nbcnews.com/health/coronavirus,Inside an 'army' of COVID-19 contact tracers in Massachusetts,"[('Massachusetts', 'GPE')]"
+34,NBC,https://www.nbcnews.com/health/coronavirus,Pushback on Trump state 'bailout' swipe: Who's really getting rescued?,[]
+35,NBC,https://www.nbcnews.com/health/coronavirus,S. Korea is leading the pack in its coronavirus response. The price? A new way of life.,"[('S. Korea', 'GPE')]"
+36,NBC,https://www.nbcnews.com/health/coronavirus,"Instagram's cofounders left Facebook. Now, they're working on a coronavirus website.","[('Instagram', 'ORG'), ('Facebook', 'ORG')]"
+37,NBC,https://www.nbcnews.com/health/coronavirus,Magic Johnson: Sports will first return without fans in the stands,"[('Magic Johnson', 'PERSON'), ('first', 'ORDINAL')]"
+38,NBC,https://www.nbcnews.com/health/coronavirus,L.A. Lakers return $4.6M in federal relief aid,"[('L.A. Lakers', 'ORG'), ('$4.6M', 'MONEY')]"
+39,NBC,https://www.nbcnews.com/health/coronavirus,Trump: Federal govt. shouldn't rescue states and cities struggling under pandemic,[]
+40,NBC,https://www.nbcnews.com/health/coronavirus,"As most remain home, some states begin to slowly reopen",[]
+41,NBC,https://www.nbcnews.com/health/coronavirus,"In Detroit, grief runs deep as city grapples with COVID-19","[('Detroit', 'GPE')]"
+42,NBC,https://www.nbcnews.com/health/coronavirus,Pelosi says Democrats will push for mail-in voting in next relief package,"[('Pelosi', 'ORG'), ('Democrats', 'NORP')]"
+43,NBC,https://www.nbcnews.com/health/coronavirus,'Another pandemic': Domestic abuse calls spike in Latin America,"[('Latin America', 'LOC')]"
+44,NBC,https://www.nbcnews.com/health/coronavirus,Nursing home industry pushes for legal immunity during COVID-19 emergency,[]
+45,NBC,https://www.nbcnews.com/health/coronavirus,Tyson Foods chairman warns: 'The food supply chain is breaking',"[('Tyson Foods', 'ORG')]"
+46,NBC,https://www.nbcnews.com/health/coronavirus,Doctor prevented from seeing kids after husband said she posed coronavirus threat,[]
+47,NBC,https://www.nbcnews.com/health/coronavirus,"As 'quarantine fatigue' sets in, more people venturing out, study finds",[]
+48,NBC,https://www.nbcnews.com/health/coronavirus,Automakers adjust to 'new normal' as they prepare to reopen plants,[]
+49,NBC,https://www.nbcnews.com/health/coronavirus,"His fight with virus is over, but British PM warns country now is time of 'maximum risk'","[('British', 'NORP')]"
+50,NBC,https://www.nbcnews.com/health/coronavirus,"Grieving is hard, but new text service means you don't have to do it alone",[]
+51,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus may be strike three for the Burlington Bees,"[('three', 'CARDINAL'), ('the Burlington Bees', 'PRODUCT')]"
+52,NBC,https://www.nbcnews.com/health/coronavirus,Ballot initiatives struggle to qualify for 2020 election,"[('2020', 'DATE')]"
+53,NBC,https://www.nbcnews.com/health/coronavirus,"Louisiana pastor, while on house arrest, again defies coronavirus order with church service","[('Louisiana', 'GPE')]"
+54,NBC,https://www.nbcnews.com/health/coronavirus,Governors urge Trump to keep briefings 'fact-based' after disinfectant comments,"[('Trump', 'ORG')]"
+55,NBC,https://www.nbcnews.com/health/coronavirus,Spanish flu-era diaries give Ohio family hope,"[('Spanish', 'NORP'), ('Ohio', 'GPE')]"
+56,NBC,https://www.nbcnews.com/health/coronavirus,Small businesses say they need more than 2 months of help to survive coronavirus crisis,"[('more than 2 months', 'DATE')]"
+57,NBC,https://www.nbcnews.com/health/coronavirus,Rolling Stones coronavirus lockdown single 'Living in a Ghost Town' hits No. 1 on iTunes,"[('1', 'CARDINAL'), ('iTunes', 'ORG')]"
+58,NBC,https://www.nbcnews.com/health/coronavirus,"As Dr. Fauci, Brad Pitt diagnoses Trump on 'SNL'","[('Fauci', 'PERSON'), ('Brad Pitt', 'PERSON'), ('Trump', 'PERSON'), ('SNL', 'ORG')]"
+59,NBC,https://www.nbcnews.com/health/coronavirus,"'Outrageous,' 'irresponsible': Governors slam McConnell over bankruptcy comments","[('slam McConnell', 'PERSON')]"
+60,NBC,https://www.nbcnews.com/health/coronavirus,Birx: U.S. needs a 'breakthrough' on antigen testing to aid in reopening,"[('Birx', 'GPE'), ('U.S.', 'GPE')]"
+61,NBC,https://www.nbcnews.com/health/coronavirus,Critics say police target minorities more than white protesters over social distancing,[]
+62,NBC,https://www.nbcnews.com/health/coronavirus,Kids miss more than just class with schools closed. How can you help them adjust?,[]
+63,NBC,https://www.nbcnews.com/health/coronavirus,"VA has provided few answers around agency's virus study, veteran advocates say","[('VA', 'GPE')]"
+64,NBC,https://www.nbcnews.com/health/coronavirus,The Zoom shiva: Jewish funerals and mourning in the age of COVID,"[('Zoom', 'PERSON'), ('Jewish', 'NORP')]"
+65,NBC,https://www.nbcnews.com/health/coronavirus,"For students in rural Puerto Rico, remote learning amid coronavirus is a tough challenge","[('Puerto Rico', 'GPE')]"
+66,NBC,https://www.nbcnews.com/health/coronavirus,"As restaurants stay closed, chefs still cooking — for health care workers",[]
+67,NBC,https://www.nbcnews.com/health/coronavirus,"WHO warns there's no evidence of coronavirus immunity as global death toll reaches 200,000","[('200,000', 'CARDINAL')]"
+68,NBC,https://www.nbcnews.com/health/coronavirus,MSNBC Special Report: Testing and the Road to Reopening,[]
+69,NBC,https://www.nbcnews.com/health/coronavirus,Want a mask contract? A White House connection helps,"[('White House', 'ORG')]"
+70,NBC,https://www.nbcnews.com/health/coronavirus,"At a NY nursing home forced to take COVID-19 patients, 24 residents have died","[('NY', 'GPE'), ('24', 'CARDINAL')]"
+71,NBC,https://www.nbcnews.com/health/coronavirus,"Affairs, hoarders and hope: Read anonymous confessions in the time of the coronavirus",[]
+72,NBC,https://www.nbcnews.com/health/coronavirus,NBC News special report: 'Coronavirus Pandemic',"[('NBC News', 'ORG')]"
+73,NBC,https://www.nbcnews.com/health/coronavirus,Coronavirus: What you need to know,[]
+74,NBC,https://www.nbcnews.com/health/coronavirus,'Into The Red Zone': An NBC News NOW documentary ,"[('NBC News', 'ORG')]"
+75,NBC,https://www.nbcnews.com/health/coronavirus,Portrait of a neighborhood under lockdown,"[('Portrait', 'PERSON')]"
+76,NBC,https://www.nbcnews.com/health/coronavirus,Photos capture empty cities across the globe,[]
+77,NBC,https://www.nbcnews.com/health/coronavirus,New Yorkers are giving nightly ovations to health workers. These are their portraits,"[('New Yorkers', 'NORP')]"
+78,NBC,https://www.nbcnews.com/health/coronavirus,"Exonerated man freed from prison, now in hotel quarantine: 'I could watch Netflix!'","[('Netflix', 'PERSON')]"
+79,NBC,https://www.nbcnews.com/health/coronavirus,America needs universal testing. Here's how we'll get there.,"[('America', 'GPE')]"
+80,NBC,https://www.nbcnews.com/health/coronavirus,Drinking bleach will not cure coronavirus. Here's what it could do instead.,[]
+81,NBC,https://www.nbcnews.com/health/coronavirus,"Touch a shadow, 'You're it!': New routines as Denmark returns to school","[('Denmark', 'GPE')]"
+82,NBC,https://www.nbcnews.com/health/coronavirus,Trump's White House briefings may be scaled back,"[('Trump', 'GPE'), ('White House', 'ORG')]"
+83,NBC,https://www.nbcnews.com/health/coronavirus,California heat wave draws large crowds to beaches despite stay-at-home order,"[('California', 'GPE')]"
+84,NBC,https://www.nbcnews.com/health/coronavirus,White House considering scaling back Trump's daily coronavirus briefings in coming weeks,"[('White House', 'ORG'), (""Trump's"", 'ORG'), ('daily', 'DATE'), ('coming weeks', 'DATE')]"
+85,NBC,https://www.nbcnews.com/health/coronavirus,White House considers scaling back daily briefings,"[('White House', 'ORG'), ('daily', 'DATE')]"
+86,NBC,https://www.nbcnews.com/health/coronavirus,"Dad, 32, writes heart-wrenching note to wife, kids before dying of coronavirus","[('32', 'DATE')]"
+87,NBC,https://www.nbcnews.com/health/coronavirus,Fauci's absence from recent coronavirus briefings draws notice,"[('Fauci', 'ORG')]"
+88,NBC,https://www.nbcnews.com/health/coronavirus,"Global coronavirus death toll surpasses 200,000, as world leaders commit to finding vaccine","[('200,000', 'CARDINAL')]"
+89,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Latest news for health care. ,[]
+90,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"On Tuesday, de Blasio announced plans to hire 1,000 health workers to track coronavirus cases as well as anyone who has come into contact with someone who's tested positive for Covid-19.","[('Tuesday', 'DATE'), ('de Blasio', 'ORG'), ('1,000', 'CARDINAL')]"
+91,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Health officials in the UK have warned that Covid-19 could be causing a new and rare inflammatory condition in children.,"[('UK', 'GPE')]"
+92,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Quest screens patients online to determine whether or not an antibody test is appropriate and then sends them to have their blood drawn at one of Quest's 2,200 laboratories, Quest said.","[('one', 'CARDINAL'), ('Quest', 'ORG'), ('2,200', 'CARDINAL'), ('Quest', 'ORG')]"
+93,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Covid-19 has infected more than 3 million people around the world, killing at least 211,522 people.","[('Covid-19', 'ORG'), ('more than 3 million', 'CARDINAL'), ('at least 211,522', 'CARDINAL')]"
+94,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Stocks are set to advance as Dow stocks 3M, Caterpillar and Pfizer rise on earnings and U.S. oil prices come off their lows.","[('Dow', 'ORG'), ('3', 'CARDINAL'), ('Caterpillar', 'ORG'), ('Pfizer', 'PERSON'), ('U.S.', 'GPE')]"
+95,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"As the coronavirus pandemic continues to escalate, doctors around the U.S. are joining lawyers and financial advisors in urging Americans to create the essential documents necessary to help medical providers better coordinate care.","[('U.S.', 'GPE'), ('Americans', 'NORP')]"
+96,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"It estimates it can potentially produce ""millions"" of coronavirus vaccine doses by the end of this year and ""hundreds of millions of doses"" in 2021 if the vaccine is successful.","[('millions', 'CARDINAL'), ('the end of this year', 'DATE'), ('hundreds of millions', 'CARDINAL'), ('2021', 'DATE')]"
+97,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Germany's coronavirus infection rate has edged up, prompting the head of the country's infectious diseases institute to urge people to stay at home as much as possible.","[('Germany', 'GPE')]"
+98,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"The U.S. is not even ""remotely prepared"" to re-open, an expert said on Tuesday as some states are set to lift lockdowns that had been imposed to contain the coronavirus outbreak.","[('U.S.', 'GPE'), ('Tuesday', 'DATE')]"
+99,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"European markets gained on Tuesday as investors monitor the potential easing of coronavirus lockdowns around the world, along with a host of corporate earnings.","[('European', 'NORP'), ('Tuesday', 'DATE')]"
+100,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Germany's coronavirus infection rate has reportedly edged up while Spain's daily death rate has eased.,"[('Germany', 'GPE'), ('Spain', 'GPE'), ('daily', 'DATE')]"
+101,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,American Airlines will require flight attendants wear face masks and will provide passengers with them because of concerns about coronavirus.,"[('American Airlines', 'ORG')]"
+102,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,Boeing is planning to resume production of 787 Dreamliners at its South Carolina factory early next month after a nearly monthlong closure because of the coronavirus.,"[('Boeing', 'ORG'), ('787', 'CARDINAL'), ('South Carolina', 'GPE'), ('early next month', 'DATE')]"
+103,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""All those things and many more, changes to our physical facilities, for instance, will be necessary for us to conclude that we are safe,"" Purdue University President Mitch Daniels told CNBC.","[('Purdue University', 'ORG'), ('Mitch Daniels', 'PERSON'), ('CNBC', 'ORG')]"
+104,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"The news conference, to be held in the Rose Garden, appears to replace the daily coronavirus task force briefing, which had been scheduled for the same time Monday. Trump has been the subject of criticism for his dangerous speculation about whether injecting disinfectants can help to treat Covid-19.","[('the Rose Garden', 'FAC'), ('daily', 'DATE'), ('the same time Monday', 'DATE'), ('Trump', 'PERSON')]"
+105,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"More than 1.9 million unemployment claims have been filed in Texas since the outbreak began and the state has paid out more than $2 billion, Abbott said.","[('More than 1.9 million', 'CARDINAL'), ('Texas', 'GPE'), ('more than $2 billion', 'MONEY'), ('Abbott', 'PERSON')]"
+106,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,San Francisco Mayor London Breed announced Monday that health officials are extending the city's stay-at-home order through May.,"[('San Francisco', 'GPE'), ('London Breed', 'PERSON'), ('Monday', 'DATE')]"
+107,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""Hospitals want to assure patients that if they have an issue, dial 911 and get to the hospital,"" Medtronic Executive Chairman Omar Ishrak told CNBC.","[('911', 'CARDINAL'), ('Medtronic Executive', 'ORG'), ('Omar Ishrak', 'PERSON'), ('CNBC', 'ORG')]"
+108,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Some countries are considering issuing so-called immunity passports to people who have antibodies against Covid-19, enabling them to travel or return to work.",[]
+109,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""We believe that the overarching federal plan seems to be very much based on science,"" Dr. Mike Ryan, executive director of WHO's emergencies program, said of the U.S.","[('Mike Ryan', 'PERSON'), ('WHO', 'ORG'), ('U.S.', 'GPE')]"
+110,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Cuomo's remarks come as health experts and political leaders, including those at the White House, warn that the coronavirus is likely to persist through the fall and winter.","[('Cuomo', 'PERSON'), ('the White House', 'ORG'), ('winter', 'DATE')]"
+111,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,A new CNBC index that tracks companies working on a Covid-19 cure shows how closely the stock market is following drug equities.,"[('CNBC', 'ORG')]"
+112,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,The World Health Organization warned Monday that children across the world will die as the coronavirus pandemic forces some countries to temporarily halt vaccinations for other deadly diseases such as polio.,"[('The World Health Organization', 'ORG'), ('Monday', 'DATE')]"
+113,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Say hello to the high-walled cubicles made famous in the 1999 film, ""Office Space,"" because they're about to make a comeback.","[('1999', 'DATE'), ('Office Space', 'WORK_OF_ART')]"
+114,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"""Now how long that immunity lasts, how strong it is, we don't know,"" the former FDA chief told CNBC on Monday.","[('FDA', 'ORG'), ('CNBC', 'ORG'), ('Monday', 'DATE')]"
+115,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Earlier last week, Cuomo released the preliminary results of a statewide coronavirus antibody testing study, which indicated that an estimated 13.9% of the New Yorkers have likely had Covid-19 already.","[('Earlier last week', 'DATE'), ('Cuomo', 'ORG'), ('an estimated 13.9%', 'PERCENT'), ('New Yorkers', 'NORP')]"
+116,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Boeing is preparing for a yearslong slump in air travel, which will force the manufacturer to shrink to meet weak demand.","[('Boeing', 'ORG')]"
+117,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"CVS and UPS will start using drones to deliver prescription medications to The Village residents, a Florida retirement community, in order to maintain social distancing measures.","[('CVS', 'ORG'), ('UPS', 'ORG'), ('Village', 'ORG'), ('Florida', 'GPE')]"
+118,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,WHO is holding a press briefing on the coronavirus pandemic.,[]
+119,CNBC,https://www.cnbc.com/id/10000108/device/rss/rss.html,"Capacity to test broadly throughout the population and to trace contacts with those who test positive for Covid-19 is a crucial element of the state's plans to lift restrictions, New York Gov. Andrew Cuomo have previously said.","[('New York', 'GPE'), ('Andrew Cuomo', 'PERSON')]"
